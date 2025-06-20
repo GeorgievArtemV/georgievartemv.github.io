@@ -1,2 +1,2 @@
 # georgievartemv.github.io
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/GeorgievArtemV?theme=light&font=Roboto%20Serif)](https://leetcode.com/u/GeorgievArtemV/)
